@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Boden McHale";
 export const SITE_DESCRIPTION =
-  "Welcome to my portfolio! I write about various development and literary topics.";
+  "Various development and literary topics.";
 export const TWITTER_HANDLE = "@BodenMcHale";
 export const MY_NAME = "Boden McHale";
 
