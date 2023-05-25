@@ -1,0 +1,4 @@
+[submodule "dist/poetry.github.io"]
+	path = dist/poetry.github.io
+	url = https://github.com/BodenMcHale/poetry.github.io
+	branch = gh-pages
